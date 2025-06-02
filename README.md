@@ -1,0 +1,1 @@
+I wrote the logic myself and then used a tool just to help polish the formatting and structure a bit, like organizing the methods and making sure the naming was clean. I wanted to make sure it was readable and followed good coding style.
